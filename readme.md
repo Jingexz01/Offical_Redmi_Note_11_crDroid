@@ -8,7 +8,7 @@
 
 ## 📱 Device-side changes:
 
-* Initial unofficial crDroid 11.6 build for spes
+* Initial Official crDroid 11.6 build for spes
 * Removed unused and broken WFD/Miracast blobs and services
 * Synced vendor blobs with latest Lineage base for improved compatibility
 * Fixed missing variants for key prebuilt libraries

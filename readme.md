@@ -34,7 +34,9 @@
 
 ## ⚠️ Known Issues:
 
-* WFD/Miracast is not supported *(SD680 hardware limitation)*
+* WFD/Miracast is not supported
+* Mi Pay is not supported
+* NFC may not work (not tested on spesn)
 * FM Radio may not work on certain regional variants
 * **Clean flash strongly recommended**
 
@@ -42,15 +44,14 @@
 
 ## 🔧 Installation Notes:
 
-* **crDroid Recovery** is recommended
 * Format `data` before flashing to avoid boot loops
 * GApps optional *(NikGApps or MindTheGapps recommended)*
 
 ---
 
 # 🛡 Checksum
-**MD5:** cee6ab59b5b1d095748ea109176b7f7f\
-**SHA256:** 9900627dc9e03f84d4f6893315a304662f3179813f38da0311b8a9a5ddf22bbd 
+**MD5:** d4ea421d5f25b30434926d5f465218f0
+**SHA256:** b282460ab3cd041c6658d3396c96576c3ff3c2a7da35a65c48d608e084cdef56 
 
 ---
 

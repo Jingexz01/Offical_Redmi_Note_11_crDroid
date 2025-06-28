@@ -37,7 +37,6 @@
 * WFD/Miracast is not supported
 * Mi Pay is not supported
 * NFC may not work (not tested on spesn)
-* FM Radio may not work on certain regional variants
 * **Clean flash strongly recommended**
 
 ---

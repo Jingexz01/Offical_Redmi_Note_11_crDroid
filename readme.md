@@ -1,7 +1,7 @@
-# Unofficial crDroid 11.0 for Redmi Note 11 (`spes`)
+# Official crDroid 11.0 for Redmi Note 11 (`spes`)
 
 **Maintainer:** Jingexz01
-**Status:** Unofficial
+**Status:** Official
 **Build Date:** 2025-06-28
 
 ---
@@ -56,7 +56,7 @@
 
 ## 📲 Installation Guide:
 
-* [Unofficial spes Wiki](https://github.com/Jingexz01/Unoffical_Redmi_Note_11_crDroid/wiki)
+* [Official spes Wiki](https://github.com/Jingexz01/Unoffical_Redmi_Note_11_crDroid/wiki)
 
 ---
 
@@ -67,4 +67,4 @@
 
 ---
 
-**This is an unofficial build. Flash at your own risk — I am not responsible for bricked devices or lost data.**
+**Flash at your own risk — I am not responsible for bricked devices or lost data.**

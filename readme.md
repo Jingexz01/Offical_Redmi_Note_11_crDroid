@@ -1,8 +1,8 @@
-# Official crDroid 11.0 for Redmi Note 11 (`spes`)
+# Official crDroid 11.6 for Redmi Note 11 (`spes`)
 
 **Maintainer:** Jingexz01
 **Status:** Official
-**Build Date:** 2025-06-28
+**Build Date:** 2025-06-29
 
 ---
 
@@ -38,6 +38,7 @@
 * Mi Pay is not supported
 * NFC may not work (not tested on spesn)
 * **Clean flash strongly recommended**
+*  Flash GApps everytime you flash/sideload the rom to avoid issues with Google Play Services/Store crashing
 
 ---
 

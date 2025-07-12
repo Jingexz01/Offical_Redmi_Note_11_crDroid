@@ -2,7 +2,7 @@
 
 **Maintainer:** Jingexz01
 **Status:** Official
-**Build Date:** 2025-06-29
+**Build Date:** 2025-07-08
 
 ---
 
@@ -14,6 +14,7 @@
 * Fixed missing variants for key prebuilt libraries
 * Removed unused broken HALs
 * Synced with latest Lineage blobs for vendor setup
+* NFC Functionality fixed, rom now fully supports spesn
 
 ---
 
@@ -34,9 +35,6 @@
 
 ## ⚠️ Known Issues:
 
-* WFD/Miracast is not supported
-* Mi Pay is not supported
-* NFC may not work (not tested on spesn)
 * **Clean flash strongly recommended**
 *  Flash GApps everytime you flash/sideload the rom to avoid issues with Google Play Services/Store crashing
 
